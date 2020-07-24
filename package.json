@@ -1,0 +1,25 @@
+{
+  "name": "7.weatherwebsitepersonal",
+  "version": "1.0.0",
+  "description": "This is a Fully Updated Weather Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi0803/WeatherWebsitePersonal.git"
+  },
+  "author": "Redjohn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhi0803/WeatherWebsitePersonal/issues"
+  },
+  "homepage": "https://github.com/Abhi0803/WeatherWebsitePersonal#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}

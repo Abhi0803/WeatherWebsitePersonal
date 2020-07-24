@@ -1,0 +1,109 @@
+body{
+  text-align: center;
+  background-color: lightblue;
+  padding-top: 25%;
+  /* background-image: url("mist.jpg"); */
+}
+.Mist{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+.Thunderstorm{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Drizzle{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Rain{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Snow  {
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Clear{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Clouds{
+  max-width: 249px;
+  position: fixed;;
+  right: 80%;
+  bottom: 30%;
+}
+
+.Smoke{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Haze{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Dust{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Fog{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Sand{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Ash  {
+  max-width: 249px;
+  position: fixed;;
+  left: 50%;
+  bottom: 10%;
+}
+
+.Squall{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
+
+.Tornado{
+  max-width: 249px;
+  position: fixed;;
+  left: 80%;
+  top: 10%;
+}
